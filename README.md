@@ -1,2 +1,2 @@
-# lede-autosign
-auto signin for lede frame
+# 自动签到
+针对Shine公司的手机端签到软件制作的lede自动签到插件
